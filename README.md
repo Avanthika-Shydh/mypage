@@ -1,1 +1,2 @@
+# Triggered GitHub Action 🚀
 # mypage
